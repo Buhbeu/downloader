@@ -17,6 +17,7 @@
 - [archive_20260510_120154](./archive_20260510_120154)
 - [download](./download)
 - [mhrv-rs-android-universal-v1.9.10 (1)_6037424481331322799](./mhrv-rs-android-universal-v1.9.10%20%281%29_6037424481331322799)
+- [x-ui-linux-amd64.tar](./x-ui-linux-amd64.tar)
 
 ---
 
